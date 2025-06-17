@@ -1,0 +1,5 @@
+*.dot
+*.png
+!Model_graph.png
+*.tar
+*.ipynb_checkpoints
